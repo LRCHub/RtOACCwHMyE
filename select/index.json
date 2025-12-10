@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BFF",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-10T14:20:40.102588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BFF",
+      "artist": "Slayyyter feat. Ayesha Erotica",
+      "has_synced": true,
+      "path": "select/01_BFF_Slayyyter_feat._Ayesha_Erotica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BFF (feat. Ayesha Erotica)",
+      "artist": "Slayyyter",
+      "has_synced": true,
+      "path": "select/02_BFF_(feat._Ayesha_Erotica)_Slayyyter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bff (feat. Wrabel)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/03_Bff_(feat._Wrabel)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BFF",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/04_BFF_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IDK, My BFF Jill",
+      "artist": "Empire! Empire! (I Was a Lonely Estate)",
+      "has_synced": true,
+      "path": "select/05_IDK,_My_BFF_Jill_Empire!_Empire!_(I_Was_a_Lonely_Estate).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IDK, My BFF Jil",
+      "artist": "Empire! Empire! (I Was A Lonely Estate)",
+      "has_synced": true,
+      "path": "select/06_IDK,_My_BFF_Jil_Empire!_Empire!_(I_Was_A_Lonely_Estate).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BFF (BESTFRIEND)",
+      "artist": "Kreayshawn",
+      "has_synced": true,
+      "path": "select/07_BFF_(BESTFRIEND)_Kreayshawn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BFF (BESTFRIEND) (Album Version)",
+      "artist": "Kreayshawn",
+      "has_synced": true,
+      "path": "select/08_BFF_(BESTFRIEND)_(Album_Version)_Kreayshawn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bff",
+      "artist": "Fat Nick",
+      "has_synced": false,
+      "path": "select/09_Bff_Fat_Nick.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BFF",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/10_BFF_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bff",
+      "artist": "Leah Kate",
+      "has_synced": false,
+      "path": "select/11_Bff_Leah_Kate.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BFF (Best Friends Forever)",
+      "artist": "P1Harmony",
+      "has_synced": true,
+      "path": "select/12_BFF_(Best_Friends_Forever)_P1Harmony.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BFF",
+      "artist": "Slayyyter",
+      "has_synced": true,
+      "path": "select/13_BFF_Slayyyter.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BFF",
+      "artist": "Slayyyter feat. Ayesha Erotica",
+      "has_synced": true,
+      "path": "select/14_BFF_Slayyyter_feat._Ayesha_Erotica.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BFF (feat. Ayesha Erotica)",
+      "artist": "Slayyyter/Ayesha Erotica",
+      "has_synced": true,
+      "path": "select/15_BFF_(feat._Ayesha_Erotica)_Slayyyter_Ayesha_Erotica.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "bff",
+      "artist": "chelmico",
+      "has_synced": true,
+      "path": "select/16_bff_chelmico.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BFF",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_BFF_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
